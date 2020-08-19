@@ -52,10 +52,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="JarTaxOrder.cs" />
+    <Compile Include="TaxJarOrder.cs" />
     <Compile Include="ITaxService.cs" />
-    <Compile Include="JarTaxService.cs" />
-    <Compile Include="JarTaxRate.cs" />
+    <Compile Include="TaxJarService.cs" />
+    <Compile Include="TaxJarRate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
