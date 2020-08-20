@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Written by Alex Sheinton
+using System;
 using TaxJarService;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
